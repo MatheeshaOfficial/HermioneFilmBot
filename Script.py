@@ -9,8 +9,9 @@ class script(object):
 
 ◇───────────────◇
 
-Pσωєя∂ Bу
+🔥**Pσωєя∂ Bу**
 @CADUCEUS_NETWORK | @TEAMHERMIONE ©️
+
 ◇───────────────◇
 """
     HELP_TXT = """𝙷𝙴𝚈 {}

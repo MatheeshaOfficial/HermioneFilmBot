@@ -25,13 +25,21 @@ class script(object):
 ◇───────────────◇
 """
     ABOUT_TXT = """🔰MY NAME : {}
-🔰CREATOR : @Rodolphus_Lestrang
-🔰DEVS : @MyzoneMy | @Iron_Voldy 
-🔰LIBRARY : PYROGRAM 
-🔰LANGUAGE : PYTHON3
-🔰DATA BASE : MONGODB
-🔰HOST : DIGITALOCEAN
-🔰BOT VERSION : 1.0.0 🎯
+🙋‍♂️ I Aᴍ : Bᴏʀᴜᴛᴏ
+👨‍💻 Cʀᴇᴀᴛᴏʀ: @Rodolphus_Lesyrang
+👩‍💻 Dᴇᴠs : @MyzoneMy | @Iron_Voldy
+
+◇───────────────◇
+
+🌺 Sᴇʀᴠᴇʀ : Dɪɢɪᴛᴀʟ Oᴄᴇᴀɴ
+🌻 Lᴀɴɢᴜᴀɢᴇ : Pyᴛʜᴏɴ
+📚 Lɪʙʀᴀʀy : Pyʀᴏɢʀᴀᴍ
+☘️ Bᴜɪʟᴅ Sᴛᴀᴛᴜꜱ : V1.0.0 [ Bᴇᴛᴀ ]
+
+🔥**Pσωєя∂ Bу**
+@CADUCEUS_NETWORK | @TEAMHERMIONE ©️
+
+◇───────────────◇
 """
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 

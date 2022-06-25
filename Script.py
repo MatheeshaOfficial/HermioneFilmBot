@@ -15,7 +15,15 @@ class script(object):
 ◇───────────────◇
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
-ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs🎯 ᴍᴏʀᴇ ʜᴇʟᴘ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ⛑️."""
+ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs🎯 ᴍᴏʀᴇ ʜᴇʟᴘ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ⛑️.
+
+◇───────────────◇
+
+🔥**Pσωєя∂ Bу**
+@CADUCEUS_NETWORK | @TEAMHERMIONE ©️
+
+◇───────────────◇
+"""
     ABOUT_TXT = """🔰MY NAME : {}
 🔰CREATOR : @Rodolphus_Lestrang
 🔰DEVS : @MyzoneMy | @Iron_Voldy 

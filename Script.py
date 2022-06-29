@@ -24,8 +24,8 @@ class script(object):
 
 ◇───────────────◇
 """
-    ABOUT_TXT = """🔰MY NAME : {}
-🙋‍♂️ I Aᴍ : Bᴏʀᴜᴛᴏ
+    ABOUT_TXT = """
+🙋‍♂️ I Aᴍ : Cᴀᴅᴜᴄᴇᴜs
 👨‍💻 Cʀᴇᴀᴛᴏʀ: @Rodolphus_Lesyrang
 👩‍💻 Dᴇᴠs : @MyzoneMy | @Iron_Voldy
 
